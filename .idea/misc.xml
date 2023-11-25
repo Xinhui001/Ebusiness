@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ebusiness/pom.xml" />
+        <option value="$PROJECT_DIR$/ja100-2-1_1/pom.xml" />
+        <option value="$PROJECT_DIR$/ja100_2_1_1_cs/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK" />
+</project>
